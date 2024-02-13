@@ -1,0 +1,193 @@
+/*
+	@name desktop___2
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1389px; width: 1389px; height: 2804px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1389px;
+	height: 2804px;
+}
+
+#_bg__desktop___2_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1389px;
+	height: 2804px;
+	background:rgba(59.51,59.82,59.91,1);
+}
+
+
+#rectangle_2 {
+	top: 67px;
+	left: 96px;
+	width: 839px;
+	height: 139px;
+	border: 1px solid #06d2ff;
+	background:rgba(59.51,59.82,59.91,1);
+}
+
+
+#rectangle_3 {
+	top: 83px;
+	left: 1024px;
+	width: 314px;
+	height: 330px;
+	border: 1px solid #06d2ff;
+	background:rgba(59.51,59.82,59.91,1);
+}
+
+#frame_1 {
+	top: 260px;
+	left: 97px;
+	width: 854px;
+	height: 468px;
+}
+
+#_bg__frame_1_ek1 {
+	top: -1px;
+	left: -1px;
+	width: 854px;
+	height: 468px;
+	border: 1px solid #06d2ff;
+	background:#;
+}
+
+
+#nombre_y_apellidos__amaury_alberto_vizca_no_v_zquez_direcci_n__av__fernando_amilpa__and__18_mnz_6_num_6_unidad_c_t_m_el_risco__delegaci_n__gustavo_a__madero__c_p__07090__localidad__m_xico_d_f_tel_fono__57_14_03_40___55_77_25_34_13_email__avizcainov0283_gmail_com_fecha_de_nacimiento__19_de_abril_de_1994_estado_civil__soltero {
+	top: 39px;
+	left: 15px;
+	width: 848.2px;
+	height: 399.2px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_4 {
+	top: 794px;
+	left: 96px;
+	width: 1230px;
+	height: 355px;
+	border: 1px solid #06d2ff;
+	background:rgba(59.51,59.82,59.91,1);
+}
+
+
+#rectangle_5 {
+	top: 1194px;
+	left: 96px;
+	width: 588px;
+	height: 641px;
+	border: 1px solid #06d2ff;
+	background:rgba(59.51,59.82,59.91,1);
+}
+
+#frame_2 {
+	top: 1195px;
+	left: 746px;
+	width: 581px;
+	height: 641px;
+}
+
+#_bg__frame_2_ek1 {
+	top: -1px;
+	left: -1px;
+	width: 581px;
+	height: 641px;
+	border: 1px solid #06d2ff;
+	background:#;
+}
+
+
+#formacion_y_estudios_fecha__junio_2021__actual__instituci_n_formadora__universidad_tres_culturas_utc__carrera__ingenier_a_en_sistemas_computacionales__fecha__mayo_de_2019_a_marzo_2020_instituci_n_formadora__universidad_mexicana__unimex__carrera__licenciatura_en_contadur_a_p_blica_ {
+	top: 18px;
+	left: 21px;
+	width: 564.2px;
+	height: 516.2px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#amaury_alberto_viscaino_vazquez {
+	top: 112px;
+	left: 179px;
+	width: 668px;
+	height: 60px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#objetivos___obtener_el_t_tulo_universitario___tomar_cursos_de_ingl_s_para_dominar_el_idioma____aportar_y_desarollar_las_ideas_que_proponga_en_mi_lugar_de_trabajo_para_desempe_ar_las_tareas_de_forma__ptima____buscar_nuevas_oportunidades_para_crecer_laboral_y_personalmente_ {
+	top: 845px;
+	left: 135px;
+	width: 1123.2px;
+	height: 243.2px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#habilidades_uso_de_excel_60___cruces__tablas_din_micas__filtros__bases_de_datos___buen_manejo_de_la_computadora__anal_tico__trabajo_en_equipo__liderazgo__responsable_ {
+	top: 1173px;
+	left: 120px;
+	width: 521.2px;
+	height: 633.2px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_6 {
+	top: 1905px;
+	left: 96px;
+	width: 1230px;
+	height: 766px;
+	border: 1px solid #06d2ff;
+	background:rgba(59.51,59.82,59.91,1);
+}
+
+
+#experiencia_profesional_fecha_de_ingreso__junio_2020_a_actual__empresa__sky__puesto__analista_operativo__funciones____reportar_y_canalizar_a_las__reas_correspondientes_las_incidencias_que_se_presenten_en_la_operaci_n____controlar_el_inventario__tanto_de_insumos_operativos_como_administrativos____informar_incidencia_en_los_sistemas_que_afecten_directamente_a_la_operaci_n___registrar_en_bit_coras_todas_las_incidencias_presentadas_en_el_d_a____validar_fisicamente_que_todas_las_posiciones_funcionen_correctamente_ {
+	top: 1971px;
+	left: 125px;
+	width: 1197.2px;
+	height: 594.2px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */

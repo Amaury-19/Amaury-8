@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html{
+            background: linear-gradient(to bottom, blue, black);
+            margin: 0;
+        padding: 0;
+        height: 150vh;
+        border: 10px solid black;
+        color: black;
+        }
+        .titu{
+            border: 5px solid black;
+        }
+        .tabla{
+            border: 5px solid black;
+            color: antiquewhite;
+        }
+
+    </style>
+    <script src="validaciones.js"></script>
+</head>
+<body>
+    <h1 class="titu">¡¡EXAMEN!!</h1>
+    <label for="capital">Capital : </label>
+    <input type="text" name="capital" id="capital" placeholder="Eje: 400.23">
+    <span id="mensaje" style="color: red;"></span>
+    <br>
+    <br>
+    <label for="porcentaje">Porcentaje : </label>
+    <select name="porcentaje" id="porcentaje">
+        <option value="22">%22</option>
+    </select>
+    <br>
+    <br>
+    <label for="dias">Días : </label>
+    <select name="dias" id="dias">
+        <option value="30">30</option>
+        <option value="50">50</option>
+        <option value="120">120</option>
+    </select>
+    <br>
+    <br>
+    <button id="boton">Calcular</button>
+    <br>
+
+    <table class="tabla"  border="1">
+        <thead>
+            <tr>
+                <th>Día</th>
+                <th>Resultado</th>
+            </tr>
+        </thead>
+        <tbody id="tablaResultados"></tbody>
+    </table>
+
+    <br>
+    <span id="Resultados"></span>
+
+    <script>
+        
+    </script>
+</body>
+</html>
